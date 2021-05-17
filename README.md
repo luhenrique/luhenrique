@@ -19,7 +19,7 @@
   <li><b>👤 Name: </b> Luiz Henrique</li>
   <li><b>🎓 Education:</b> PhD Computer Science student</li>
   <li><b>📍 Location:</b> Brazil</li>
-  <li><b>💼 Interests:</b> CyberSecurity and IoT</li>
+  <li><b>💼 Interests:</b> Computer Architecture, CyberSecurity and IoT</li>
   <li><b>📣 Languages:</b> Portuguese (BR), English & Italian</li>
 </ul>
 
